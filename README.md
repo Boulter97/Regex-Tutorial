@@ -4,8 +4,8 @@
 **Project Description**
 -
 This homework is to develop an application called a create a tutorial that explains how a specific regular expression, or regex, functions by breaking down each part of the expression and describing what it does. I used the template provided in the starter code to create my tutorial.
--Developer notes:- 
- 
+
+-Dev notes: i made a repo istead of a gist first, lesson to learn read all materials before starting haha
 **User Story**
 -
 - AS A web development student
@@ -34,3 +34,5 @@ This homework is to develop an application called a create a tutorial that expla
 - https://www.youtube.com/
 - https://developer.mozilla.org/en-US/
 - https://courses.bootcampspot.com/courses/2384/assignments/44521?module_item_id=830169
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions
+- https://regex101.com/
