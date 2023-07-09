@@ -7,7 +7,12 @@ functionality of a specific regular expression, breakinf down each part and expl
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+This tutorial is to explain the inner workings of the below regular expession:
+
+^([A-Za-zO-9._%+-]+)@([A-Za-zO-9.-]+)\.([A-Za]{2,})$
+
+The main objective of this regex is to validate email addresses. We will go over each component of the expression describing its role and
+significance.
 
 ## Table of Contents
 
@@ -49,4 +54,7 @@ Briefly summarize the regex you will be describing and what you will explain. In
 
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+Prepared by Conor Ryan, Refer to my Github profile for more resources or see some of my current projects,
+
+you know have a solid understanding of how to break down and understand a specific regular expression, with regular expression in your
+aresenal you be able to easily impliment text matching and manipulations like a professional.
