@@ -1,6 +1,9 @@
-# Title (replace with your title)
+# Tutorial Understanding a Specific Regular Expression
 
-Introductory paragraph (replace this with your text)
+Introduction
+
+Regular expressions (regex) are powerful tools for pattern matching and text manipulation. in this tutorialm we will delve into the
+functionality of a specific regular expression, breakinf down each part and explaining it's purpose. By the end of this tutorial you will have a comprehensive understanding of how the regular expression works and how to effectively interpret and utilze it.
 
 ## Summary
 
