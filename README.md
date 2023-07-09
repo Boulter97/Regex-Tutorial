@@ -1,5 +1,4 @@
  Regex-Tutorial
-  Text-Editor
 - 
 
 **Project Description**
