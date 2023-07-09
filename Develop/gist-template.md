@@ -32,11 +32,30 @@ significance.
 
 ### Anchors
 
+Anchors set the boundaries for the regex. in this instance
+
+- `^` is the start anchor. it marks the beginning of the text we want to match.
+- `$` is the end anchor. it marks the end of the text we want to match.
+  These anchors make sure we only catch the email address with and extra stuff attached to it.
+
 ### Quantifiers
+
+Quantifiers determine how many times a character or group should appear. in our regex:
+
+`+` Means "one or more". it makes sure that the username and domain name have at least one valid character, like letters, dots, numbers,
+underscores, percentage signs, plus signs or hyphens.
 
 ### OR Operator
 
+The OR operator gives us choices to match different options, in our regex we dont have a specific OR operator, but we can consider the
+use of `.` and `-` as alernatives to match different characters.
+
 ### Character Classes
+
+Character classes define sets of allowed characters, in this regex
+`[A-Za-zO-9]` allowes uppercase letters, lowercase letters and numbers.
+`._%+-` represents specific characters like dots, underscores, percentage signs, plus signs and hyphens.
+These character classes make sure we can only accept valid characters for the email adress.
 
 ### Flags
 
