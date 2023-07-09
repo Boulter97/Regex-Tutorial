@@ -3,8 +3,7 @@
 
 **Project Description**
 -
-This homework is to develop an application called a text editor that runs in the browser. The app will be a single-page application that meets the PWA criteria. Additionally, it will feature a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application will also function offline.
-
+This homework is to develop an application called a create a tutorial that explains how a specific regular expression, or regex, functions by breaking down each part of the expression and describing what it does. I used the template provided in the starter code to create my tutorial.
 -Developer notes:- 
  
 **User Story**
